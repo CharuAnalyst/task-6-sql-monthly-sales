@@ -1,0 +1,17 @@
+order_year,order_month,month_name,total_revenue,order_volume
+2003,2,February,2871,1
+2003,5,May,2765.9,1
+2003,7,July,3884.34,1
+2003,8,August,3746.7,1
+2003,10,October,5977.53,2
+2003,11,November,7680.86,2
+2004,2,February,4708.44,1
+2004,4,April,3284.26,1
+2004,5,May,5793.42,1
+2004,6,June,1611.56,1
+2004,7,July,2228.8,1
+2004,8,August,5310.24,1
+2004,11,November,7603.8,2
+2005,1,January,6006.96,1
+2005,2,February,1797.12,1
+2005,5,May,4162.2,1

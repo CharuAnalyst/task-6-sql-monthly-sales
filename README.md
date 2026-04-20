@@ -4,8 +4,8 @@ Objective
 Calculate total revenue and order volume for each month using MySQL.
 
 ## Files in this repo
-[SQL Query] (./task-6-query.sql) - SQL query used for analysis
-[Output CSV] (./task-6-output.csv.csv) - Output result with monthly revenue and volume
+[SQL Query](./task-6-query.sql) - SQL query used for analysis
+[Output CSV](./task-6-output.csv.csv) - Output result with monthly revenue and volume
 [Screenshot](./task-6-output.png) - Screenshot of query execution in MySQL Workbench
 
 ## Query Used
